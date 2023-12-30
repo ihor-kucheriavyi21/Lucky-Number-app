@@ -14,6 +14,6 @@ The Lucky Number app is a simple Android application where users can enter their
 - XML for layouts
 
 ## Screenshots
-- ![Main Screen](https://github.com/ihor-kucheriavyi21/Lucky-Number-app/assets/52655831/f9e82a63-e907-4d43-8e28-521748a68d7a)
-- ![Random Number Generation](![image](https://github.com/ihor-kucheriavyi21/Lucky-Number-app/assets/52655831/74442100-ae6f-450d-aca4-5c2ccd88c3af)
+![Main Screen](https://github.com/ihor-kucheriavyi21/Lucky-Number-app/assets/52655831/f9e82a63-e907-4d43-8e28-521748a68d7a)
+![Random Number Generation](https://github.com/ihor-kucheriavyi21/Lucky-Number-app/assets/52655831/74442100-ae6f-450d-aca4-5c2ccd88c3af)
 
